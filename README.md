@@ -34,7 +34,7 @@ Country ranking via RANK() OVER (...).
 -Top customer: highest spender based in Japan (~$20K); high-value customers distributed across multiple countries rather than concentrated in one.
 -Top product: best-selling product generated ~$19.9K in revenue, with the rest of revenue spread fairly evenly across the catalog.
 -Profit by category: Electronics leads with $925K profit and the strongest margin contribution overall.
--Time-based trends: strong revenue growth from 2021–2023, peaking in Oct–Nov 2023, with a decline in 2024 (likely partial/incomplete-year data).
+-Time-based trends: strong revenue growth from 2021–2023, peaking in Oct–Nov 2023; the apparent decline in 2024 is confirmed to be a data cutoff, not a real trend — the dataset ends December 24, 2024, so 2024 has  about 7 fewer days of data than the other full years.
 # Key Insights
 Market performance: North America dominates revenue, while emerging markets (India, Egypt, Jordan) show strong potential for growth.
 Product strategy: Electronics is the core revenue and profit driver; other categories contribute meaningfully but at a smaller scale.
